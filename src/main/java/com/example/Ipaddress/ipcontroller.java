@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ipcontroller {
 	@GetMapping("/get")
 	public String ip() {
-		return "hello abishek";
+		return "hello thiru";
 		
 	}
 
